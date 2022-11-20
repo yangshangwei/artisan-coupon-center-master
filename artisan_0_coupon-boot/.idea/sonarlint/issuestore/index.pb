@@ -1,0 +1,25 @@
+
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+O
+coupon-template-service/pom.xml,9\8\98a6a3aa80a85963babc07975c0fa86ddca3f938
+\
+,coupon-template-service/template-api/pom.xml,0\9\0993568476254a0c9f85e2353306c8c4981823b4
+\
+,coupon-template-service/template-dao/pom.xml,1\9\1902cd287e4419a77f876c460d535f1104920c44
+ó
+gcoupon-template-service/template-api/src/main/java/comartisan/coupon/template/api/enums/CouponType.java,b\5\b521011d335b0ae2eb83a01fcc077fd76e1390ca
+]
+-coupon-template-service/template-impl/pom.xml,3\a\3a1dc0108316621707a0ffbafcba5f5313c2947d
+°
+qcoupon-template-service/template-api/src/main/java/comartisan/coupon/template/api/beans/TemplateSearchParams.java,b\a\ba8721065c26c1dca4afd8b5a81f73ea53ab64d0
+§
+tcoupon-template-service/template-api/src/main/java/comartisan/coupon/template/api/beans/PagedCouponTemplateInfo.java,1\2\12820f9948d31b03e2513cb5f8d0aa700a986235
+ò
+hcoupon-template-service/template-impl/src/main/java/com/artisan/coupon/template/TemplateApplication.java,3\6\3678e4028f4b68948770b2192dcc37a3da136890
+ù
+mcoupon-template-service/template-dao/src/main/java/com/artisan/coupon/template/dao/entity/CouponTemplate.java,b\7\b7483cf910605cf63d9536f3fdf56da984ee7c2a
+ß
+wcoupon-template-service/template-impl/src/main/java/com/artisan/coupon/template/service/intf/CouponTemplateService.java,b\1\b1667c1fa44142bea071ebcf40e47f5cc17a466d
