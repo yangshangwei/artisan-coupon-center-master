@@ -5,6 +5,7 @@
       <directory url="file://$PROJECT_DIR$/coupon-template-service/template-api/src/main/resources/archetype-resources" includeSubdirectories="true" />
       <directory url="file://$PROJECT_DIR$/coupon-template-service/template-dao/src/main/resources/archetype-resources" includeSubdirectories="true" />
       <directory url="file://$PROJECT_DIR$/coupon-template-service/template-impl/src/main/resources/archetype-resources" includeSubdirectories="true" />
+      <directory url="file://$PROJECT_DIR$/coupon-calculation-service/calculation-impl/src/main/resources/archetype-resources" includeSubdirectories="true" />
     </excludeFromCompile>
     <annotationProcessing>
       <profile default="true" name="Default" enabled="true" />
@@ -15,12 +16,17 @@
         <module name="template-impl" />
         <module name="template-api" />
         <module name="template-dao" />
+        <module name="calculation-impl" />
+        <module name="calculation-api" />
       </profile>
     </annotationProcessing>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="artisan_0_coupon-boot" options="" />
+      <module name="calculation-api" options="-parameters" />
+      <module name="calculation-impl" options="-parameters" />
+      <module name="coupon-calculation-service" options="" />
       <module name="coupon-template-service" options="" />
       <module name="template-api" options="-parameters" />
       <module name="template-dao" options="-parameters" />

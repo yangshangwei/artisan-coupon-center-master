@@ -25,7 +25,8 @@
     </properties>
 
     <modules>
-        <module>coupon-calculation-api</module>
+        <module>calculation-api</module>
+        <module>calculation-impl</module>
     </modules>
 
 </project>
