@@ -17,6 +17,7 @@
 
     <modules>
         <module>coupon-template-service</module>
+        <module>coupon-calculation-service</module>
     </modules>
 
 
